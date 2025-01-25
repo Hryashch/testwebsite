@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+nav{
+    display:flex;
+    justify-content: space-evenly;
+}
+nav a{
+    font-size: 16px;
+    background: red;
+}
+nav a:hover{
+    font-size: 20px;
+    background: pink;
+}
